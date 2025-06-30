@@ -1,0 +1,7 @@
+aiogram==2.25.1
+telethon==1.37.0
+aiohttp
+psutil
+aiosqlite
+requests
+termcolor
